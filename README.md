@@ -1,24 +1,17 @@
-# README - Learning Journey step 7
+# New tribute page branch.
 
-## 7.2 - Your Tribute Page
+#### For more information on the repository as a whole please navigate to the main branch or click [here.](https://github.com/pattisoj/tribute-page-jack-harlow/tree/main)
 
-You will now be using git and vscode to:
+This branch holds the content of the improvements to my tribute page that was my first ever creation. I wanted to use my new knowledge of HTML and CSS to make some improvements.
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+#### This branch will not be merged.
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+## Goals
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
+When I decided to update the tribute page these were my goals:
 
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
+- Keep the content the same (_Or as close to the original as possible_)
+- Make small improvements using only HTML & CSS (_It would be easy to make a fancy react app and it look better so I wanted to focus my alterations to try and improve the page with the sane tools I used to make it_)
+- Have an improved page in this branch.
 
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+## Changes
