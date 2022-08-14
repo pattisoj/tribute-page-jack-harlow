@@ -2,15 +2,23 @@
 
 The first repository I ever created - a tribute page to my favourite musical artist Jack Harlow.
 
-## Repository explaination
+## Repository explanation
 
-On the 16th April 2022 I uploaded this repository to GitHub. It was my first ever experience with creating a repository and was part of my pre-course learning for the [School of Code](https://www.schoolofcode.co.uk/). Starting from ['README - Learning Journey step 7'](#readme---learning-journey-step-7) you will find the original documentation that explained the process I had to follow/learn about. The original code that I created as my tribute page for Jack Harlow is still here in the main branch. A gif and description of the app can be found in the [Original Site](#original-site) section. I decided to come back after my 16 weeks at the bootcamp and pay homage to my first ever piece of work and change the style slightly and improve it's look. You can find the code for that by switching over to the ['new-tribute-page' branch](https://github.com/pattisoj/tribute-page-jack-harlow/tree/new-tribute-page). I additionally changed the name of this repository on the 10th of August 2022 to be more consistent with the kebab case formatting I have been using as this originally followed pascal case (Stage2Step7TributePage).
+On the 16th April 2022 I uploaded this repository to GitHub. It was my first ever experience with creating a repository and was part of my pre-course learning for the [School of Code](https://www.schoolofcode.co.uk/). Starting from ['README - Learning Journey step 7'](#readme---learning-journey-step-7) you will find the original documentation that explained the process I had to follow/learn about. The original code that I created as my tribute page for Jack Harlow is still here in the main branch. A gif and description of the app can be found in the [Original Tribute Page](#original-tribute-page) section. I decided to come back after my 16 weeks at the bootcamp and pay homage to my first ever piece of work and change the style slightly and improve it's look. You can find the code for that by switching over to the ['new-tribute-page' branch](https://github.com/pattisoj/tribute-page-jack-harlow/tree/new-tribute-page). I additionally changed the name of this repository on the 10th of August 2022 to be more consistent with the kebab case formatting I have been using as this originally followed pascal case (Stage2Step7TributePage).
 
-# Original Site
+# New Tribute Page
+
+All of the information for the new tribute page can be found on the ['new-tribute-page' branch](https://github.com/pattisoj/tribute-page-jack-harlow/tree/new-tribute-page).
+
+Here is the new page in action:
+
+![New Tribute Page](images/new-tribute-page.gif)
+
+# Original Tribute Page
 
 The original site was a four page slideshow that was accompanied by a photo for each. The photos were not well formatted as my focus was mainly on the animation and before my understanding of responsiveness it 'looked good in codepen'. For my first ever webpage I was happy with it - looking back now it is nice to see the progress I have made. Here is a gif of the webpage in action:
 
-<img src="images/original-website.gif" width="800" />
+<img src="images/original-tribute-page.gif" width="800" />
 
 # Original README.md
 
